@@ -1,7 +1,7 @@
-int main(){
+boolean main(){
 	
 	printf("hello");
 	
-	return 1;
+	return true;
 	
 }
